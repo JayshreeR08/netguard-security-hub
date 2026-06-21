@@ -55,5 +55,5 @@ NetGuard implements an **Isolation Forest** model to analyze multi-variable coor
 
 
 ---
-##Author
+
 Jayshree
