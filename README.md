@@ -54,4 +54,6 @@ NetGuard implements an **Isolation Forest** model to analyze multi-variable coor
 *Developed as an engineering portfolio piece demonstrating end-to-end full-stack development, network socket administration, and applied unsupervised machine learning.*
 
 
-WORK DONE BY JAYSHREE
+---
+##Author
+Jayshree
