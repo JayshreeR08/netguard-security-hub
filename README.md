@@ -1,4 +1,4 @@
-# NetGuard Security Hub: AI-Powered System Anomaly Detector
+# NetGuard Security Hub Version 1: AI-Powered System Anomaly Detector
 
 ### 🌐 Live Production Dashboard: [Launch NetGuard Live Dashboard](https://jayshreer08-netguard-security-hub-dashboard-gnex5o.streamlit.app/)
 
